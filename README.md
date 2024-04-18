@@ -1,9 +1,5 @@
 # Wazuh
 # File Integrity Monitoring
-
-
-A short description of the project
-
 ## To start
 
 Wazuh is a security platform that provides unified XDR and SIEM protection for endpoints and cloud workloads. The solution is composed of a single universal agent and three central components: the Wazuh server, the Wazuh indexer, and the Wazuh dashboard.
@@ -47,7 +43,7 @@ Select the package to download and install on your system:
 Linux/Mac/Windows
 
 Server address:
-your <ip> 192.168.1.2
+192.168.1.2
 
 Optional settings:
 Name : test
@@ -69,9 +65,9 @@ Modules > Agent > Security Events
 
 Afterwards, you can:
 
-1 : Create a text file in the directory.
-2 : Add some content to it.
-3 : Delete it.
+- Create a text file in the directory.
+- Add some content to it.
+- Delete it.
 
 You'll be able to see that your file has been created, modified, and deleted.
 
